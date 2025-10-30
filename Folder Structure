@@ -1,0 +1,12 @@
+account-app/
+│
+├── src/
+│   ├── components/
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   │   ├── Account.js
+│   ├── App.js
+│   ├── index.js
+│
+├── package.json
+└── README.md
