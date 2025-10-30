@@ -10,3 +10,16 @@ account-app/
 │
 ├── package.json
 └── README.md
+
+Install dependencies :
+npx create-react-app account-app
+cd account-app
+npm install bootstrap react-router-dom
+
+
+Add Bootstrap import in src/index.js:
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
